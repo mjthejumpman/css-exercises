@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: pink;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+.three {
+    font-size: 22px;
+}
+
+#two {
+    color: blue;
+    font-size: 32px;
+}
+
+#four {
+    color: black;
+    background-color: rgb(111, 250, 99);
+    font-weight: 700;
+}
